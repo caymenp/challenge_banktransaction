@@ -1,4 +1,4 @@
-# challenge_banktransaction
+# Coding Challenge --- Bank Transaction
 
 Simple bank transaction coding challenge I completed while going through META's Backend Developer Certification.
 
